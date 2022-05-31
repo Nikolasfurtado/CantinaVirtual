@@ -1,0 +1,12 @@
+.main-div {
+    margin: 10px auto;
+    text-align: center;
+    border: 3px solid black;
+}
+
+.insert-fields {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+}
